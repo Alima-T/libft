@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aokhapki <aokhapki@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alima <alima@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/14 08:51:56 by aokhapki          #+#    #+#             */
-/*   Updated: 2024/03/25 10:39:05 by aokhapki         ###   ########.fr       */
+/*   Updated: 2024/08/23 23:50:12 by alima            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,3 +32,4 @@ int	ft_atoi(const char *str)
 	}
 	return (number * negative_sign);
 }
+
